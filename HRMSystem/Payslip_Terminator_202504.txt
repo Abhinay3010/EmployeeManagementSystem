@@ -1,0 +1,8 @@
+------ Employee Payslip ------
+Month: April 2025
+Employee ID: 1
+Name: Terminator
+Department: Skynet
+Monthly Salary: ₹83333.33333333333
+------------------------------
+Note: This is a system-generated payslip.
